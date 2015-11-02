@@ -2,6 +2,12 @@ Autoform File
 =============
 
 ### Description ###
+!!! THIS PACKAGE IS ONLY FOR TEMP USE!!!
+
+[yogiben/meteor-autoform-file](https://github.com/yogiben/meteor-autoform-file) not works well currently.
+
+[DONE] Removed the bug and published to ATMOSPHERE.
+
 Upload and manage files with autoForm.
 
 ![Meteor autoform file](https://raw.githubusercontent.com/yogiben/meteor-autoform-file/master/readme/1.png)
