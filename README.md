@@ -6,7 +6,12 @@ Autoform File
 
 [yogiben/meteor-autoform-file](https://github.com/yogiben/meteor-autoform-file) not works well currently.
 
-[DONE] Removed the bug and published to ATMOSPHERE.
+**[DONE] Removed the bug and published to ATMOSPHERE.**
+
+Use this package by
+```
+meteor add shinn:autoform-file
+```
 
 Upload and manage files with autoForm.
 
